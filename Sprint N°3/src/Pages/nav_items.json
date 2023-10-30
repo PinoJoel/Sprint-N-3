@@ -1,0 +1,39 @@
+
+{"Mujer": {
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22975"
+},
+"Hombre":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22976"
+},
+"ad":{
+	"GetFieldBy":"id",
+	"ValueToFind":"btnNoIdWpnPush"
+},
+"Nenes":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22977"
+},
+"Accesorios":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_24021"
+},
+"Ocasion":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_38688"
+},
+"Marcas":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_24052"
+},
+"outlet":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22982"
+},
+"wishlist":{
+	"GetFieldBy":"id",
+	"ValueToFind":"btnWishListLink"
+}
+
+}
